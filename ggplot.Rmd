@@ -1,6 +1,6 @@
 ---
 title: "Case Study in `ggplot2`"
-author: "Paul Intrevado"
+author: "Yuhan Wang"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 output: pdf_document
 ---
